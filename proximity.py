@@ -1,8 +1,8 @@
 import time
 import RPi.GPIO as GPIO
-# Facebook	= Haerul Nurdiana
-# Web 		= catatanraspi.id
-# WhatsApp	= +628997423478
+# Facebook	        = Haerul Nurdiana
+# Web 		        = catatanraspi.id
+# WhatsApp/Telegram	= +628997423478
 def main():
 
     # tell the GPIO module that we want to use the 
