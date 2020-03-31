@@ -1,7 +1,6 @@
 import time
 import RPi.GPIO as GPIO
 # Facebook	        = Haerul Nurdiana
-# Web 		        = catatanraspi.id
 # WhatsApp/Telegram	= +6281315733899
 def main():
 
