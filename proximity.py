@@ -1,7 +1,6 @@
 import time
 import RPi.GPIO as GPIO
-# Facebook	        = Haerul Nurdiana
-# WhatsApp/Telegram	= +6281315733899
+
 def main():
 
     # tell the GPIO module that we want to use the 
